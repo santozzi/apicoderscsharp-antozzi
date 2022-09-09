@@ -1,0 +1,8 @@
+C:\Users\Sergio\Documents\cursos\coder house\csharp\ProyectoFinal-Antozzi\ProyectoFinal-Antozzi\bin\Debug\ProyectoFinal-Antozzi.exe.config
+C:\Users\Sergio\Documents\cursos\coder house\csharp\ProyectoFinal-Antozzi\ProyectoFinal-Antozzi\bin\Debug\ProyectoFinal-Antozzi.exe
+C:\Users\Sergio\Documents\cursos\coder house\csharp\ProyectoFinal-Antozzi\ProyectoFinal-Antozzi\bin\Debug\ProyectoFinal-Antozzi.pdb
+C:\Users\Sergio\Documents\cursos\coder house\csharp\ProyectoFinal-Antozzi\ProyectoFinal-Antozzi\obj\Debug\ProyectoFinal-Antozzi.csproj.AssemblyReference.cache
+C:\Users\Sergio\Documents\cursos\coder house\csharp\ProyectoFinal-Antozzi\ProyectoFinal-Antozzi\obj\Debug\ProyectoFinal-Antozzi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\Documents\cursos\coder house\csharp\ProyectoFinal-Antozzi\ProyectoFinal-Antozzi\obj\Debug\ProyectoFinal-Antozzi.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\cursos\coder house\csharp\ProyectoFinal-Antozzi\ProyectoFinal-Antozzi\obj\Debug\ProyectoFinal-Antozzi.exe
+C:\Users\Sergio\Documents\cursos\coder house\csharp\ProyectoFinal-Antozzi\ProyectoFinal-Antozzi\obj\Debug\ProyectoFinal-Antozzi.pdb
