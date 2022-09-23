@@ -11,7 +11,11 @@ namespace ProyectoFinal_Antozzi
     {
         static void Main(string[] args)
         {
-         
+            Ventas ventas = new Ventas();
+            ventas.IdUsuario = 3;
+            Console.WriteLine(ventas.getIdUsuario());
+            Console.ReadLine();
+            List<string> lista = new List<string>();
         }
     }
 }
