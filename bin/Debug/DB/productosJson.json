@@ -1,0 +1,122 @@
+[
+  {
+    "Id": 1,
+    "Descripcion": "Coomutadora",
+    "Costo": 255.0,
+    "PrecioDeVenta": 58636.0,
+    "Stock": 52,
+    "IdUsuario": 0
+  },
+  {
+    "Id": 2,
+    "Descripcion": "Mouse",
+    "Costo": 256.0,
+    "PrecioDeVenta": 569.0,
+    "Stock": 69,
+    "IdUsuario": 0
+  },
+  {
+    "Id": 3,
+    "Descripcion": "Tablet",
+    "Costo": 100000.0,
+    "PrecioDeVenta": 200000.0,
+    "Stock": 1,
+    "IdUsuario": 0
+  },
+  {
+    "Id": 4,
+    "Descripcion": "Notebook",
+    "Costo": 5625.0,
+    "PrecioDeVenta": 22352.0,
+    "Stock": 9,
+    "IdUsuario": 0
+  },
+  {
+    "Id": 5,
+    "Descripcion": "Cargador",
+    "Costo": 256.0,
+    "PrecioDeVenta": 563.0,
+    "Stock": 25,
+    "IdUsuario": 0
+  },
+  {
+    "Id": 6,
+    "Descripcion": "Teclado",
+    "Costo": 2000.0,
+    "PrecioDeVenta": 2500.0,
+    "Stock": 52,
+    "IdUsuario": 0
+  },
+  {
+    "Id": 7,
+    "Descripcion": "454",
+    "Costo": 454.0,
+    "PrecioDeVenta": 54.0,
+    "Stock": 455,
+    "IdUsuario": 0
+  },
+  {
+    "Id": 8,
+    "Descripcion": "calculadora",
+    "Costo": 525.0,
+    "PrecioDeVenta": 12025.0,
+    "Stock": 69,
+    "IdUsuario": 0
+  },
+  {
+    "Id": 9,
+    "Descripcion": "Celular",
+    "Costo": 5256.0,
+    "PrecioDeVenta": 25522.0,
+    "Stock": 65,
+    "IdUsuario": 0
+  },
+  {
+    "Id": 10,
+    "Descripcion": "Pendrive",
+    "Costo": 850.0,
+    "PrecioDeVenta": 925.0,
+    "Stock": 8,
+    "IdUsuario": 0
+  },
+  {
+    "Id": 11,
+    "Descripcion": "Palta",
+    "Costo": 25.0,
+    "PrecioDeVenta": 600.0,
+    "Stock": 250,
+    "IdUsuario": 0
+  },
+  {
+    "Id": 12,
+    "Descripcion": "Lentes",
+    "Costo": 52.0,
+    "PrecioDeVenta": 3665.0,
+    "Stock": 254,
+    "IdUsuario": 0
+  },
+  {
+    "Id": 13,
+    "Descripcion": "Termo",
+    "Costo": 1565.0,
+    "PrecioDeVenta": 2510.0,
+    "Stock": 15,
+    "IdUsuario": 0
+  },
+  {
+    "Id": 14,
+    "Descripcion": "Licuadora",
+    "Costo": 500.0,
+    "PrecioDeVenta": 1500.0,
+    "Stock": 69,
+    "IdUsuario": 0
+  },
+  {
+    "Id": 15,
+    "Descripcion": "Impresora",
+    "Costo": 1500.0,
+    "PrecioDeVenta": 2586.0,
+    "Stock": 12,
+    "IdUsuario": 0
+  }
+]
