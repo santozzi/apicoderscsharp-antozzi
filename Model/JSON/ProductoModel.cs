@@ -114,5 +114,26 @@ namespace ProyectoFinal_Antozzi.Model.JSON
             var prods = JsonConvert.DeserializeObject<List<Producto>>(products);
             return prods;
         }
+
+        Producto ICRUD<Producto>.
+            Add(Producto entity)
+        {
+            throw new NotImplementedException();
+        }
+
+        bool ICRUD<Producto>.Update(Producto entity, int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        bool ICRUD<Producto>.Delete(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public List<Producto> GetByIdUsuario(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

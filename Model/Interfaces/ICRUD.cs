@@ -11,8 +11,8 @@ namespace ProyectoFinal_Antozzi.Model
         T Add(T entity);
         List<T> GetAll();
         T Get(int id);
-        T Update(T entity, int id); 
-        T Delete(int id);
+        bool Update(T entity, int id); 
+        bool Delete(int id);
         
     }
 }
