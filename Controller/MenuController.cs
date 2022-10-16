@@ -1,12 +1,7 @@
-﻿using ProyectoFinal_Antozzi.Entities;
-using ProyectoFinal_Antozzi.Services;
+﻿using ProyectoFinal_Antozzi.Services;
 using ProyectoFinal_Antozzi.View;
 using System;
-using System.CodeDom.Compiler;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace ProyectoFinal_Antozzi.Controller
 {
@@ -28,7 +23,7 @@ namespace ProyectoFinal_Antozzi.Controller
         
        
         protected void Salir() {
-
+        Console.Clear ();
         string firma = @"
 
         ██████╗ ██╗   ██╗                              
@@ -54,7 +49,7 @@ namespace ProyectoFinal_Antozzi.Controller
 ";
           
             Console.ForegroundColor = ConsoleColor.Blue;
-         
+            Console.WriteLine("Exit!!! BYE BYE!! ");
             Console.WriteLine(firma);
             Console.ReadLine();
         

@@ -36,29 +36,28 @@ namespace ProyectoFinal_Antozzi.Controller
             }
             else if (opcion == 1)
             {
+                Salir();
                 //TODO: Crear usuario
                 // ShowMenu();
             }
             else
             {
-
+                
                 //ShowMenu();
             }
             Console.ReadKey();
         }
         private void IniciarSesion()
         {
-            Console.Clear();
-            Console.Write("Ingresar el nombre de usuario: ");
-            string userName = Console.ReadLine();
-            // Console.WriteLine();
-            Console.Write("Ingrese la contraseña: ");
-            //Console.CursorVisible = false;
-            //Console.hide
-            string password = LeerPassword();
-            this.count++;
+            Console.Clear(); 
             if (this.count <= 3)
             {
+            Console.Write("Ingresar el nombre de usuario: ");
+            string userName = Console.ReadLine();
+            Console.Write("Ingrese la contraseña: ");
+            string password = LeerPassword();
+            this.count++;
+           
                 if (IsUserAndPass(userName, password))
                 {
                     new MenuTestController();

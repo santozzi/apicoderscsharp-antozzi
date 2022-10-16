@@ -44,14 +44,18 @@ namespace ProyectoFinal_Antozzi.Controller.Menus
             {
                 TraerProducto();
             }
-            else if (opcion == 2) {
+            else if (opcion == 2)
+            {
                 TraerProductosVendidos();
             }
-            else if(opcion == 3)
+            else if (opcion == 3)
             {
                 TraerVentas();
             }
-            Console.ReadKey();
+            else {
+                Salir();
+            }
+          
         }
 
         private void TraerUsuario() {
@@ -99,7 +103,7 @@ namespace ProyectoFinal_Antozzi.Controller.Menus
             }
             if (productos.Count == 0)
             {
-                Console.WriteLine("El nombre de usuario no existe");
+                Console.WriteLine("Ese usuario no tiene productos vendidos");
             }
             Console.ReadKey();
             ShowMenu();
@@ -114,7 +118,7 @@ namespace ProyectoFinal_Antozzi.Controller.Menus
                 Console.WriteLine(venta.ToString());
             }
             if (ventas.Count == 0) {
-                Console.WriteLine("El id del usuario no existe");
+                Console.WriteLine("El usuario no tiene ventas");
             }
             Console.ReadKey();
             ShowMenu();
